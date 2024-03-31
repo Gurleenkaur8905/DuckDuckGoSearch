@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "axios": "^1.6.3",
+    "cheerio": "^1.0.0-rc.12",
+    "node-fetch": "^3.3.2",
+    "nodemon": "^3.0.2",
+    "playwright": "^1.40.1",
+    "puppeteer": "^21.6.1"
+  },
+  "name": "temp-new-functionalities",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
